@@ -4,7 +4,7 @@
 
 **Install**:
 ```bash
-$ npm install --dev @jgil-r/jg-prettier-config
+$ npm install --dev @jgil_r/jg-prettier-config
 ```
 
 **Edit `package.json`**:
@@ -12,6 +12,6 @@ $ npm install --dev @jgil-r/jg-prettier-config
 ```jsonc
 {
   // ...
-  "prettier": "@jgil-r/jg-prettier-config"
+  "prettier": "@jgil_r/jg-prettier-config"
 }
 ```
